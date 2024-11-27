@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Undergraduate Software Developer👨‍💻 | IT Student at SLIIT University Malabe🎓 | MERN Stack Web Developer & Kotlin Mobile App Developer🖥️<br>📍Colombo, Western Province, Sri Lanka</p>
+<p align="center">Undergraduate Software Developer👨‍💻 | IT Student at SLIIT University Malabe🎓 | MERN Stack Web Developer & Mobile App Developer🖥️<br>📍Colombo, Western Province, Sri Lanka</p>
 
 ###
 
@@ -21,9 +21,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
+<img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
