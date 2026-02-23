@@ -163,22 +163,6 @@ Led an Agile team to build a rental booking platform with OpenAI-powered recomme
 
 <br/>
 
-<!-- GITHUB STATS -->
-## 📊 GitHub Stats
-
-<div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DutheeshChelaka&show_icons=true&theme=dark&bg_color=0d1117&title_color=0a5c5c&icon_color=0a5c5c&text_color=c9d1d9&border_color=1a3a4a&hide_border=false" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DutheeshChelaka&theme=dark&background=0d1117&ring=0a5c5c&fire=0a5c5c&currStreakLabel=0a5c5c&border=1a3a4a" />
-</div>
-
-<br/>
-
-<div align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DutheeshChelaka&layout=compact&theme=dark&bg_color=0d1117&title_color=0a5c5c&text_color=c9d1d9&border_color=1a3a4a&langs_count=8" />
-</div>
-
-<br/>
-
 <!-- ACTIVITY GRAPH -->
 <div align="center">
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DutheeshChelaka&bg_color=0d1117&color=0a5c5c&line=0a5c5c&point=ffffff&area=true&area_color=0a5c5c&hide_border=false&custom_title=Contribution%20Graph" />
