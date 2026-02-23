@@ -292,68 +292,17 @@ React · Express.js · PostgreSQL · OpenAI API
 </table>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- GITHUB ANALYTICS                                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## GitHub Analytics
-
+<!-- CONTRIBUTION ACTIVITY                                         -->
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DutheeshChelaka&show_icons=true&theme=dark&bg_color=0d1117&title_color=0d9373&icon_color=0d9373&text_color=c9d1d9&border_color=1a3a4a&count_private=true&hide_title=false" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DutheeshChelaka&theme=dark&background=0d1117&ring=0d9373&fire=0d9373&currStreakLabel=0d9373&sideLabels=c9d1d9&border=1a3a4a" />
-
+<!-- ACTIVITY GRAPH — shows last 31 days of contribution activity as a line graph -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DutheeshChelaka&bg_color=0d1117&color=0d9373&line=0d9373&point=ffffff&area=true&area_color=0a5c5c&hide_border=true&custom_title=Contribution%20Activity" />
 <br/>
-<br/>
-
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DutheeshChelaka&layout=compact&theme=dark&bg_color=0d1117&title_color=0d9373&text_color=c9d1d9&border_color=1a3a4a&langs_count=8" />
-
+<!-- PROFILE SUMMARY CARDS — contribution calendar heatmap + commit time distribution -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DutheeshChelaka&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DutheeshChelaka&theme=github_dark&utcOffset=5.5" />
 </div>
-
 <br/>
-
-<!-- TROPHIES -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DutheeshChelaka&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=12" />
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- SNAKE ANIMATION                                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <!-- 
-  SETUP INSTRUCTIONS (delete this comment block after setup):
-  
-  1. Go to your DutheeshChelaka/DutheeshChelaka repo on GitHub
-  2. Click Actions tab > New workflow > "set up a workflow yourself"
-  3. Name it: snake.yml
-  4. Paste the contents from the snake.yml file provided separately
-  5. Commit, then go to Actions > "Generate Snake" > Run workflow
-  6. Once the run completes with ✅, the snake SVGs will be on the "output" branch
-  7. Uncomment the <picture> block below
--->
-
-<!--
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DutheeshChelaka/DutheeshChelaka/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DutheeshChelaka/DutheeshChelaka/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/DutheeshChelaka/DutheeshChelaka/output/github-snake.svg" />
-</picture>
-
-</div>
-
-<br/>
--->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- CURRENTLY EXPLORING                                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## Currently Exploring
 
 <div align="center">
